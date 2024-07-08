@@ -6,6 +6,8 @@ The world to check the minigame can be found [here](https://vrchat.com/home/worl
 
 Available on [GumRoad](https://crzz.gumroad.com/l/vrcspinthebottle)
 
+![screenshot](1.png)
+
 ## Lite Version:
 
 The lite version will work as explained in the start, not controlling which players are able to interact with the game, being that the big difference between the lite and standard version.
