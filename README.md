@@ -4,7 +4,7 @@ Available on [GumRoad](https://crzz.gumroad.com/l/vrcspinthebottle)
 
 In this minigame players will spin the bottle that it will land in a random position, around the bottle there will be various sentences that are randomly selected from a vast list of sentences. When the bottle lands on a certain position the sentence and the player who spined the bottle will show up in a big display above the table, when another player spins the bottle again the last position where the bottle landed will change text to make it impossible to land on the same sentence twice.
 
-The world to check the minigame can be found [here](https://pages.github.com/](https://vrchat.com/home/world/wrld_71147554-d41a-4738-8c28-3e76715fce84).
+The world to check the minigame can be found [here](https://vrchat.com/home/world/wrld_71147554-d41a-4738-8c28-3e76715fce84)
 
 ## Lite Version:
 
