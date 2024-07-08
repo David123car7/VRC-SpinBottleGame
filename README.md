@@ -6,6 +6,7 @@ The world to check the minigame can be found [here](https://vrchat.com/home/worl
 
 Available on [GumRoad](https://crzz.gumroad.com/l/vrcspinthebottle)
 
+![screenshot](5.png)
 ![screenshot](1.png)
 
 ## Lite Version:
