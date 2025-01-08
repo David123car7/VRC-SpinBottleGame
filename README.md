@@ -4,7 +4,7 @@ In this minigame players will spin the bottle that it will land in a random posi
 
 The world to check the minigame can be found [here](https://vrchat.com/home/world/wrld_71147554-d41a-4738-8c28-3e76715fce84)
 
-Available on [GumRoad](https://crzz.gumroad.com/l/vrcspinthebottle), [Booth](https://booth.pm/en/items/5844227) & [Jinxxy](https://jinxxy.com/CrZ3d/SpinBottleGame)
+Available on [Booth](https://booth.pm/en/items/5844227) & [Jinxxy](https://jinxxy.com/CrZ3d/SpinBottleGame)
 
 ![screenshot](5.png)
 ![screenshot](1.png)
