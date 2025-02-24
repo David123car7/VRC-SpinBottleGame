@@ -24,8 +24,6 @@ All the 3D models and textures were custom made by me and there will be:
 - 2 table bases;
 - 4 table legs.
 
-(If you have in mind a certain design for the table you can contact me)
-
 ## Install instructions:
 
 - Is required the latest version of the VRCSDK3 and UdonSharp.
